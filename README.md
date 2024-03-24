@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate Data Analyst from France</h3>
 
-- 🔭 I’m currently working in freelance.
+- 🔭 I’m currently working freelance.
 
 - 🌱 I’m currently learning **Data science**
 
