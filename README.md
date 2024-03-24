@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate Data Analyst from France</h3>
 
-- 🔭 I’m currently working on [Baby Makers project](https://github.com/Thomas-1527/Baby_makers)
+- 🔭 I’m currently working in freelance.
 
 - 🌱 I’m currently learning **Data science**
 
-- 👯 I’m looking to collaborate on **E-commerce project**
+- 👯 I’m looking to collaborate on **data project**
 
 - 👨‍💻 All of my projects are available at [metavasi.fr/portfolio](metavasi.fr/portfolio)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/thomas-foucque-b33866164](www.linkedin.com/in/thomas-foucque-b33866164)
 
-- ⚡ Fun fact **I love running but i'm really bad**
+- ⚡ Fun fact **I love running but i'm really bad at running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
