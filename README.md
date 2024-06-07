@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working freelance.
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning Data science and I want to specialize in RAG and then NLP
 
 - 👯 I’m looking to collaborate on **data project**
 
-- 👨‍💻 All of my projects are available at [metavasi.fr/portfolio](metavasi.fr/portfolio)
-
-- 📝 I regularly write articles on [Metavasi.fr/blog](Metavasi.fr/blog)
+- 👨‍💻 All of my projects are available at [https://1527.fr/nos-projets/]
 
 - 📫 How to reach me **foucque.thomas@gmail.com**
 
