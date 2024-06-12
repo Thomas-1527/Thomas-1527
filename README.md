@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/thomas-foucque-b33866164](www.linkedin.com/in/thomas-foucque-b33866164)
 
-- ⚡ Fun fact **I love running but i'm really bad at running**
+- ⚡ Fun fact **I love running but i'm really bad at running, so i developped an application to predict and analyse my course. You can see it in my repo !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
