@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **data project**
 
-- 👨‍💻 All of my projects are available at [https://1527.fr/nos-projets/]
+- 👨‍💻 All of my projects are available at https://1527.fr/nos-projets/
 
 - 📫 How to reach me **foucque.thomas@gmail.com**
 
