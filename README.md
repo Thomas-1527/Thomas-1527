@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **data project**
 
-- 👨‍💻 All of my projects are available at https://1527.fr/nos-projets/
+- 👨‍💻 You can have a free diagnostic AI for your company at https://metavasi.fr
 
 - 📫 How to reach me **foucque.thomas@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/thomas-foucque-b33866164](www.linkedin.com/in/thomas-foucque-b33866164)
+- 📄 Know about my experiences [www.linkedin.com/in/thomas-foucque-b33866164](www.linkedin.com/in/tfo21)
 
 - ⚡ Fun fact **I love running but i'm really bad at running, so i developped an application to predict and analyse my course. You can see it in my repo !**
 
